@@ -1,3 +1,7 @@
+## visualization of website
+![Image of visualization](src/data/241008_21h34m48s_screenshot.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
